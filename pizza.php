@@ -26,6 +26,7 @@
 }
 echo "<br>";
 echo "Autor: dacomo"."<br>";
+echo date("l jS \of F Y h:i:s A") . "<br>";
  ?>
  </body>
 </html>
